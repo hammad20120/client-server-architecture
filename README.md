@@ -16,7 +16,7 @@ If server is running locally then write [ localhost ]
 7. Exit
 
 #Supported Server Commands:
-1. Print <message>\
-2. Printid <PID> <message>\
-3. List\
+1. Print <message>
+2. Printid <PID> <message>
+3. List
 4. Clear
